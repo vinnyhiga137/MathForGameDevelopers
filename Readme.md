@@ -1,3 +1,7 @@
+WARNING! This is not my code! This was made by @BSVino!
+
+I use this for my personal study about Game Engine Development!
+
 Math for Game Developers Sample Code
 ====================================
 
